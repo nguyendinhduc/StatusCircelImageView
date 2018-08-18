@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomText">
+        <attr name="typeFaceText" format="enum">
+            <enum name="normal" value="0" />
+            <enum name="bold" value="1" />
+        </attr>
+
+
+
+    </declare-styleable>
+    <declare-styleable name="CircleStatusImageView">
+        <attr name="isActive" format="boolean" />
+        <attr name="radioActive" format="dimension" />
+        <attr name="radioInActive" format="dimension" />
+        <attr name="sizeActiveBorder" format="dimension" />
+        <attr name="sizeInActiveBorder" format="dimension" />
+        <attr name="colorActive" format="color" />
+        <attr name="colorActiveBorder" format="color" />
+        <attr name="colorInActive" format="color" />
+        <attr name="colorInActiveBorder" format="color" />
+        <attr name="rotate" format="integer" />
+    </declare-styleable>
+</resources>

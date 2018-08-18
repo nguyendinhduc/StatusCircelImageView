@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radioActiveDefault">6dp</dimen>
+    <dimen name="radioInActiveDefault">6dp</dimen>
+    <dimen name="sizeActiveBorderDefault">2dp</dimen>
+    <dimen name="sizeInActiveBorderDefault">2dp</dimen>
+
+</resources>
