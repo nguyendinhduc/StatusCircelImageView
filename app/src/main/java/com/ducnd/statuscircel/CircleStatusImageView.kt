@@ -93,6 +93,5 @@ class CircleStatusImageView : CircleImageView {
             canvas?.drawCircle(width.toFloat() / 2, 0.0f, ratioInActive.toFloat(), paint)
         }
 
-        canvas?.restore()
     }
 }
